@@ -1,5 +1,24 @@
 # BlockchainBasics
 
+## Characteristics of the blockchain
+- Immutable
+- Append-only
+- Ordered
+- Time-stamped
+- Open and transparent
+- Secure
+- Eventually consistent
+
+## Generic application patterns
+- Proof of existence
+- Proof of nonexistence
+- Proof of time
+- Proof of order
+- Proof of identity
+- Proof of ownership
+- Proof of authorship
+
+
 ## Analyzing blockchain applications
 
 1) What kind of blockchain is used?
